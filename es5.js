@@ -1,6 +1,7 @@
 'use strict';
+// @TODO https://www.npmjs.com/package/eslint-plugin-lodash
 module.exports = {
-  extends: 'eslint:recommended',
+  extends: ['eslint:recommended'],
   env: {
     node: true
   },
