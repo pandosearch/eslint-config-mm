@@ -13,7 +13,7 @@ Eslint rules for Matchminds projects
     ```json
     {
       "root": true,
-      "extends": ["eslint-config-enrise-mm"]
+      "extends": ["eslint-config-mm"]
     }
     ```
 
@@ -28,6 +28,6 @@ Using a different flavour can be done by extending from a specific file in this 
 ```json
 {
   "root": true,
-  "extends": ["eslint-config-enrise-mm/es5"]
+  "extends": ["eslint-config-mm/es5"]
 }
 ```
