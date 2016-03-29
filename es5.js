@@ -7,6 +7,7 @@ module.exports = {
   },
   rules: {
     'array-bracket-spacing': [2, 'never'],
+    'array-callback-return': 2,
     'block-scoped-var': 2,
     'brace-style': [2, '1tbs', {
       allowSingleLine: true
@@ -45,6 +46,7 @@ module.exports = {
     'no-extra-bind': 2,
     'no-extra-parens': 2,
     'no-implied-eval': 2,
+    'no-iterator': 2,
     'no-labels': 2,
     'no-lone-blocks': 2,
     'no-loop-func': 2,

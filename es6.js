@@ -10,12 +10,10 @@ module.exports = {
     es6: true
   },
   rules: {
-    'array-callback-return': 1,
     'arrow-parens': [1, 'always'],
     'arrow-body-style': [1, 'always'],
     'arrow-spacing': 1,
     'no-const-assign': 1,
-    'no-iterator': 1,
     'no-var': 1,
     'object-shorthand': 1,
     'prefer-arrow-callback': 1,
