@@ -16,7 +16,7 @@ module.exports = {
     'no-const-assign': 2,
     'no-confusing-arrow': 2,
     'no-var': 1,
-    'object-shorthand': 1,
+    'object-shorthand': [1, 'never'],
     'prefer-arrow-callback': 1,
     'prefer-const': 2,
     //  Can't use rest params yet: https://github.com/nodejs/node/issues/5411
