@@ -20,7 +20,7 @@ module.exports = {
     }],
     'comma-style': [2, 'last'],
     'computed-property-spacing': [2, 'never'],
-    'consistent-this': [2, 'self'],
+    'consistent-this': [2, 'context'],
     curly: 2,
     'dot-notation': 2,
     'eol-last': 2,
