@@ -21,7 +21,7 @@ module.exports = {
     'prefer-const': 2,
     //  Can't use rest params yet: https://github.com/nodejs/node/issues/5411
     // 'prefer-rest-params': 1,
-    'prefer-spread': 2,
+    // 'prefer-spread': 2,
     'prefer-template': 2,
     'template-curly-spacing': [2, 'never']
   }
