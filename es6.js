@@ -14,7 +14,6 @@ module.exports = {
     'arrow-body-style': [1, 'as-needed'],
     'arrow-spacing': 2,
     'no-const-assign': 2,
-    'no-confusing-arrow': 2,
     'no-var': 2,
     'object-shorthand': [1, 'always'],
     'prefer-arrow-callback': 2,
