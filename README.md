@@ -2,6 +2,10 @@
 
 Eslint rules for Matchminds projects
 
+## Deprecated
+
+This repository is deprecated and will be archived.
+
 ## Usage
 
 1. Install this module as a devDependency:
