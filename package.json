@@ -1,16 +1,16 @@
 {
   "name": "eslint-config-mm",
   "version": "2.1.0",
-  "description": "Eslint rules for Matchminds projects @ Enrise",
+  "description": "Eslint rules for Pandosearch",
   "main": "index.js",
   "scripts": {
     "test": "eslint ."
   },
-  "author": "Team Matchminds @ Enrise",
+  "author": "Pandosearch",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Enrise/eslint-config-mm.git"
+    "url": "git+ssh://git@github.com/Pandosearch/eslint-config-mm.git"
   },
   "engines": {
     "node": ">=20"
