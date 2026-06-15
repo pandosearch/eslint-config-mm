@@ -2,6 +2,6 @@
 module.exports = {
   extends: ['./es6.js'],
   parserOptions: {
-    ecmaVersion: 2025
+    ecmaVersion: 2024
   }
 };

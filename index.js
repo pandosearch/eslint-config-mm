@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('./es2025');
+module.exports = require('./es2024');
